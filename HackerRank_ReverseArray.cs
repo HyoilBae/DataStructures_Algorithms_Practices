@@ -12,6 +12,7 @@ namespace HackerRank_ArrayDS
         // Complete the reverseArray function below.
         static int[] reverseArray(int[] a)
         {
+            //Create List Generic type
             List<int> intGenericArr = new List<int>();
             for (int i = 0; i < a.Length; i++)
             {
