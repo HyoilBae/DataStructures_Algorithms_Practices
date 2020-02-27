@@ -40,8 +40,8 @@ namespace Panlindrome_Numbers_Single_Digit
             else
             {
                 int sum = 0;
-                int check = 10;
-                while (check > 9)
+                int singleDigitSum = 10;
+                while (singleDigitSum > 9)
                 {
                     sum = 0;
                     while (intNumber > 9)
@@ -56,9 +56,9 @@ namespace Panlindrome_Numbers_Single_Digit
                        
                     }
                     intNumber = sum;
-                    check = sum;
+                    singleDigitSum = sum;
                 }
-                Console.WriteLine(check);
+                Console.WriteLine(singleDigitSum);
                    
                 
 
