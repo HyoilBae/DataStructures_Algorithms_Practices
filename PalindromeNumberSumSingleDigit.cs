@@ -21,7 +21,7 @@ namespace Panlindrome_Numbers_Single_Digit
             //   Or is it multiple numbers?
             //   Or is it negative?
 
-            int givenNumber = 4315;
+            int givenNumber = 437;
             //Console.WriteLine(isItSingleDigit(givenNumber));
             sumUpAllNumber(givenNumber);
 
@@ -39,8 +39,9 @@ namespace Panlindrome_Numbers_Single_Digit
             }
             else
             {
-                int sum = 11;
-                while (sum > 9)
+                int sum = 0;
+                int check = 10;
+                while (check > 9)
                 {
                     sum = 0;
                     while (intNumber > 9)
@@ -48,12 +49,21 @@ namespace Panlindrome_Numbers_Single_Digit
                     int lastDigit = intNumber % 10;
                     intNumber = intNumber / 10;
                     sum = sum + lastDigit;
+                        if (intNumber < 10)
+                        {
+                            sum = sum + intNumber;
+                        }
+                       
                     }
-                    sum = sum + intNumber;
+                    intNumber = sum;
+                    check = sum;
                 }
-                Console.WriteLine(sum);
+                Console.WriteLine(check);
+                   
+                
 
             }
+          
 
 
 
