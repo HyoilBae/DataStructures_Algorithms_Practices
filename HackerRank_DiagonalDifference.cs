@@ -39,6 +39,7 @@ namespace HackerRank_DiagonalDifference
             for (int index = 0; index < a.Length; index++)
             {
                 sum -= a[row][row] - a[row++][column--];
+                
             }
             return Math.Abs(sum);
         }
@@ -49,18 +50,21 @@ namespace HackerRank_DiagonalDifference
         static void Main(string[] args)
         {
             //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+            //int n = Convert.ToInt32(Console.ReadLine().Trim());
+            //List<List<int>> arr = new List<List<int>>();
 
             //int n = Convert.ToInt32(Console.ReadLine().Trim());
-            int n = Convert.ToInt32(Console.ReadLine().Trim());
             //List<List<int>> arr = new List<List<int>>();
-            List<List<int>> arr = new List<List<int>>();
-            
-            for (int i = 0; i < n; i++)
+            //for (int i = 0; i < n; i++)
+            //{
+            //    arr.Add(Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList());
+            //}
+            int[][] arr = new int[3][]
             {
-                arr.Add(Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList());
-            }
-
-
+               new int[] {11, 2, 4},
+               new int[] {4, 5, 6},
+               new int[] {10, 8, -12}
+            };
             int result = diagonalDifference(arr);
             Console.WriteLine(result);
 
