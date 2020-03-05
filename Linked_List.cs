@@ -23,6 +23,8 @@ namespace Linked_List
             myList.AddFirst(2);
             myList.AddFirst(3);
             myList.Print();
+            myList.Delete(2);
+            myList.Print();
             myList.Insert(10000, 3);
 
             myList.Append(4);
@@ -156,6 +158,11 @@ namespace Linked_List
             //Insert
             public void Insert(int someValue, int index)
             {
+                if (index == 0 && head == null)
+                {
+                    AddFirst(someValue);
+                    return;
+                }
                 //create a new node
                 Node newNode = new Node(someValue);
 
@@ -163,6 +170,11 @@ namespace Linked_List
                 Node finger = head;
                 for (int position = 0; finger.Next != null && position < index; position++)
                 {
+                    if (finger == null)
+                    {
+                        Console.WriteLine("error");
+                        return;
+                    }
                     finger = finger.Next;
                 }
                 //link in the node
@@ -170,6 +182,37 @@ namespace Linked_List
                 finger.Next = newNode;
             }
             //Delete
+            public void Delete(int index)
+            {
+                if (index < 0)
+                {
+                    return;
+                }
+                if (index == 0)
+                {
+                    DeleteFirst();
+                }
+                else if (true)
+                {
+                    Node finger = head;
+                    for (int position = 0; position < index - 1; position++)
+                    {
+                        if (finger == null)
+                        {
+                            Console.WriteLine("error");
+                            return;
+                        }
+                        finger = finger.Next;
+                    }
+
+                    //link out
+                    if (finger != null && finger.Next != null)
+                    {
+                    finger.Next = finger.Next.Next;
+                    }
+
+                }
+            }
             //Print / travers
             public void Print()
             {
