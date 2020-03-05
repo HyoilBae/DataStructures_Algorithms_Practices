@@ -23,6 +23,7 @@ namespace Linked_List
             myList.AddFirst(2);
             myList.AddFirst(3);
             myList.Print();
+            myList.Insert(10000, 3);
 
             myList.Append(4);
             myList.Append(10);
@@ -132,13 +133,42 @@ namespace Linked_List
             //DeleteLast
             public void DeleteLast()
             {
+                if (head == null)//first edge case
+                {
+                    throw new Exception("you can't delete last of an empty list!!");
+                }
+                else if (head.Next == null)
+                {
+                    head = null;
+                }
+                else
+                {
                 Node finger = head;
                 while(finger.Next.Next != null)
                 {
-                    finger = finger.Next; 
+                    finger = finger.Next;
+
+                    //linkout the last node
+                }
+                    finger.Next = null;
                 }
             }
             //Insert
+            public void Insert(int someValue, int index)
+            {
+                //create a new node
+                Node newNode = new Node(someValue);
+
+                //need to find the node at position index - 1
+                Node finger = head;
+                for (int position = 0; finger.Next != null && position < index; position++)
+                {
+                    finger = finger.Next;
+                }
+                //link in the node
+                newNode.Next = finger.Next;
+                finger.Next = newNode;
+            }
             //Delete
             //Print / travers
             public void Print()
