@@ -11,36 +11,35 @@ namespace StringNumberValueSort
     {
         static void Main(string[] args)
         {
-            HighLow("1 2 3 4 5");
-            HighLow("1 2 -3 4 5");
-            HighLow("1 9 3 4 -5");
-            HighLow("13");
-
-            //int[] intNumArr = new int[] { 5, 2, 3, 4, 1 };
-            //HighLow(intNumArr);
+            //HighLow("1 2 3 4 5");
+            //HighLow("1 2 -3 4 5");
+            //HighLow("1 9 3 4 -5");
+            //HighLow("13");
         }
 
-        public static void HighLow(string str)
-        {
-            int min = 0;
-            int max = 0;
-
-            foreach (string n in str.Split(' '))
-            {
-                Console.Write(n + ", ");
-
-                if (Convert.ToInt32(n) > max)
-                {
-                    max = Convert.ToInt32(n);
-                }
-                if (Convert.ToInt32(n) < min)
-                {
-                    min = Convert.ToInt32(n);
-                }
-            }
-            Console.WriteLine("MAX number is = {0} MIN number is = {1}", max, min);
        
-        }
+
+        //public static void HighLow(string str)
+        //{
+        //    int min = 0;
+        //    int max = 0;
+
+        //    foreach (string n in str.Split(' '))
+        //    {
+        //        Console.Write(n + ", ");
+
+        //        if (Convert.ToInt32(n) > max)
+        //        {
+        //            max = Convert.ToInt32(n);
+        //        }
+        //        if (Convert.ToInt32(n) < min)
+        //        {
+        //            min = Convert.ToInt32(n);
+        //        }
+        //    }
+        //    Console.WriteLine("MAX number is = {0} MIN number is = {1}", max, min);
+       
+        //}
 
 
 
