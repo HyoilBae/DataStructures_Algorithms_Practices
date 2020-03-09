@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\HackerRank_TImeConversion\HackerRank_TImeConversion\bin\Debug\HackerRank_TImeConversion.exe.config
+C:\Users\hyoil\source\repos\HackerRank_TImeConversion\HackerRank_TImeConversion\bin\Debug\HackerRank_TImeConversion.exe
+C:\Users\hyoil\source\repos\HackerRank_TImeConversion\HackerRank_TImeConversion\bin\Debug\HackerRank_TImeConversion.pdb
+C:\Users\hyoil\source\repos\HackerRank_TImeConversion\HackerRank_TImeConversion\obj\Debug\HackerRank_TImeConversion.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HackerRank_TImeConversion\HackerRank_TImeConversion\obj\Debug\HackerRank_TImeConversion.exe
+C:\Users\hyoil\source\repos\HackerRank_TImeConversion\HackerRank_TImeConversion\obj\Debug\HackerRank_TImeConversion.pdb
