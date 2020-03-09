@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\HackerRank_BirthdayCakeCandles\HackerRank_BirthdayCakeCandles\obj\Debug\HackerRank_BirthdayCakeCandles.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HackerRank_BirthdayCakeCandles\HackerRank_BirthdayCakeCandles\bin\Debug\HackerRank_BirthdayCakeCandles.exe.config
+C:\Users\hyoil\source\repos\HackerRank_BirthdayCakeCandles\HackerRank_BirthdayCakeCandles\bin\Debug\HackerRank_BirthdayCakeCandles.exe
+C:\Users\hyoil\source\repos\HackerRank_BirthdayCakeCandles\HackerRank_BirthdayCakeCandles\bin\Debug\HackerRank_BirthdayCakeCandles.pdb
+C:\Users\hyoil\source\repos\HackerRank_BirthdayCakeCandles\HackerRank_BirthdayCakeCandles\obj\Debug\HackerRank_BirthdayCakeCandles.exe
+C:\Users\hyoil\source\repos\HackerRank_BirthdayCakeCandles\HackerRank_BirthdayCakeCandles\obj\Debug\HackerRank_BirthdayCakeCandles.pdb
