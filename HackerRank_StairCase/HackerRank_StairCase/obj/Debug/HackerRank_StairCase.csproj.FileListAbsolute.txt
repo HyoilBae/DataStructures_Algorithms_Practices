@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\HackerRank_StairCase\HackerRank_StairCase\bin\Debug\HackerRank_StairCase.exe.config
+C:\Users\hyoil\source\repos\HackerRank_StairCase\HackerRank_StairCase\bin\Debug\HackerRank_StairCase.exe
+C:\Users\hyoil\source\repos\HackerRank_StairCase\HackerRank_StairCase\bin\Debug\HackerRank_StairCase.pdb
+C:\Users\hyoil\source\repos\HackerRank_StairCase\HackerRank_StairCase\obj\Debug\HackerRank_StairCase.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HackerRank_StairCase\HackerRank_StairCase\obj\Debug\HackerRank_StairCase.exe
+C:\Users\hyoil\source\repos\HackerRank_StairCase\HackerRank_StairCase\obj\Debug\HackerRank_StairCase.pdb
