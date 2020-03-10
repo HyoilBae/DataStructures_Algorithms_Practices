@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\HackerRank_Grading_Students\HackerRank_Grading_Students\bin\Debug\HackerRank_Grading_Students.exe.config
+C:\Users\hyoil\source\repos\HackerRank_Grading_Students\HackerRank_Grading_Students\bin\Debug\HackerRank_Grading_Students.exe
+C:\Users\hyoil\source\repos\HackerRank_Grading_Students\HackerRank_Grading_Students\bin\Debug\HackerRank_Grading_Students.pdb
+C:\Users\hyoil\source\repos\HackerRank_Grading_Students\HackerRank_Grading_Students\obj\Debug\HackerRank_Grading_Students.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HackerRank_Grading_Students\HackerRank_Grading_Students\obj\Debug\HackerRank_Grading_Students.exe
+C:\Users\hyoil\source\repos\HackerRank_Grading_Students\HackerRank_Grading_Students\obj\Debug\HackerRank_Grading_Students.pdb
