@@ -1,0 +1,6 @@
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\HackerRank_Kangaroo\obj\Debug\HackerRank_Kangaroo.csprojAssemblyReference.cache
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\HackerRank_Kangaroo\bin\Debug\HackerRank_Kangaroo.exe.config
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\HackerRank_Kangaroo\bin\Debug\HackerRank_Kangaroo.exe
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\HackerRank_Kangaroo\bin\Debug\HackerRank_Kangaroo.pdb
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\HackerRank_Kangaroo\obj\Debug\HackerRank_Kangaroo.exe
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\HackerRank_Kangaroo\obj\Debug\HackerRank_Kangaroo.pdb
