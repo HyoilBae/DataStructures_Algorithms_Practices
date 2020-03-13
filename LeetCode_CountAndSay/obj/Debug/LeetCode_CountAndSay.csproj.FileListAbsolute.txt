@@ -1,0 +1,6 @@
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\LeetCode_CountAndSay\bin\Debug\LeetCode_CountAndSay.exe.config
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\LeetCode_CountAndSay\bin\Debug\LeetCode_CountAndSay.exe
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\LeetCode_CountAndSay\bin\Debug\LeetCode_CountAndSay.pdb
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\LeetCode_CountAndSay\obj\Debug\LeetCode_CountAndSay.csprojAssemblyReference.cache
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\LeetCode_CountAndSay\obj\Debug\LeetCode_CountAndSay.exe
+C:\Users\hyoil\Documents\GitHub\DataStructure_Algorithm_Practice\LeetCode_CountAndSay\obj\Debug\LeetCode_CountAndSay.pdb
