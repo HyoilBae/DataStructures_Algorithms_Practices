@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\Grokking_algorithms\bin\Debug\Grokking_algorithms.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\Grokking_algorithms\bin\Debug\Grokking_algorithms.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\Grokking_algorithms\bin\Debug\Grokking_algorithms.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\Grokking_algorithms\obj\Debug\Grokking_algorithms.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\Grokking_algorithms\obj\Debug\Grokking_algorithms.pdb
