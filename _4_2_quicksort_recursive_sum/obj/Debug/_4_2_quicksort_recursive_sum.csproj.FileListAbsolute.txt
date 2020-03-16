@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_2_quicksort_recursive_sum\bin\Debug\_4_2_quicksort_recursive_sum.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_2_quicksort_recursive_sum\bin\Debug\_4_2_quicksort_recursive_sum.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_2_quicksort_recursive_sum\bin\Debug\_4_2_quicksort_recursive_sum.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_2_quicksort_recursive_sum\obj\Debug\_4_2_quicksort_recursive_sum.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_2_quicksort_recursive_sum\obj\Debug\_4_2_quicksort_recursive_sum.pdb

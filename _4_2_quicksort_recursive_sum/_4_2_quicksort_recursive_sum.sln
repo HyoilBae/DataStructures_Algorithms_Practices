@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_2_quicksort_recursive_sum", "_4_2_quicksort_recursive_sum.csproj", "{2F89597D-E244-45FE-8E8D-B1FAC5B02735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F89597D-E244-45FE-8E8D-B1FAC5B02735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F89597D-E244-45FE-8E8D-B1FAC5B02735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F89597D-E244-45FE-8E8D-B1FAC5B02735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F89597D-E244-45FE-8E8D-B1FAC5B02735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC254EE-A41B-4E14-AB39-0B5179B8D484}
+	EndGlobalSection
+EndGlobal
