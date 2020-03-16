@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_2Selection_Sort\bin\Debug\_2Selection_Sort.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_2Selection_Sort\bin\Debug\_2Selection_Sort.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_2Selection_Sort\bin\Debug\_2Selection_Sort.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_2Selection_Sort\obj\Debug\_2Selection_Sort.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_2Selection_Sort\obj\Debug\_2Selection_Sort.pdb
