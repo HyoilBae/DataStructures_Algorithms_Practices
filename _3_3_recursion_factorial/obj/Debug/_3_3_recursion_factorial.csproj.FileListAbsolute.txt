@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_3_recursion_factorial\bin\Debug\_3_3_recursion_factorial.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_3_recursion_factorial\bin\Debug\_3_3_recursion_factorial.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_3_recursion_factorial\bin\Debug\_3_3_recursion_factorial.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_3_recursion_factorial\obj\Debug\_3_3_recursion_factorial.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_3_recursion_factorial\obj\Debug\_3_3_recursion_factorial.pdb
