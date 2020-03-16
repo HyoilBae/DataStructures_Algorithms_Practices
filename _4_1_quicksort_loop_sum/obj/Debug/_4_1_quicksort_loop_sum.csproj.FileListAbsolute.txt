@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_1_quicksort_loop_sum\bin\Debug\_4_1_quicksort_loop_sum.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_1_quicksort_loop_sum\bin\Debug\_4_1_quicksort_loop_sum.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_1_quicksort_loop_sum\bin\Debug\_4_1_quicksort_loop_sum.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_1_quicksort_loop_sum\obj\Debug\_4_1_quicksort_loop_sum.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_1_quicksort_loop_sum\obj\Debug\_4_1_quicksort_loop_sum.pdb
