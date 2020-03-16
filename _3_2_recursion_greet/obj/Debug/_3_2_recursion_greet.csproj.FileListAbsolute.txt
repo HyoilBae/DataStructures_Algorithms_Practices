@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_2_recursion_greet\bin\Debug\_3_2_recursion_greet.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_2_recursion_greet\bin\Debug\_3_2_recursion_greet.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_2_recursion_greet\bin\Debug\_3_2_recursion_greet.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_2_recursion_greet\obj\Debug\_3_2_recursion_greet.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_3_2_recursion_greet\obj\Debug\_3_2_recursion_greet.pdb
