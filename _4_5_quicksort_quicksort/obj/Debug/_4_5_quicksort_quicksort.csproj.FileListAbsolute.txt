@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_5_quicksort_quicksort\bin\Debug\_4_5_quicksort_quicksort.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_5_quicksort_quicksort\bin\Debug\_4_5_quicksort_quicksort.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_5_quicksort_quicksort\bin\Debug\_4_5_quicksort_quicksort.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_5_quicksort_quicksort\obj\Debug\_4_5_quicksort_quicksort.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_5_quicksort_quicksort\obj\Debug\_4_5_quicksort_quicksort.pdb
