@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_4_quicksort_recursive_max\bin\Debug\_4_4_quicksort_recursive_max.exe.config
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_4_quicksort_recursive_max\bin\Debug\_4_4_quicksort_recursive_max.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_4_quicksort_recursive_max\bin\Debug\_4_4_quicksort_recursive_max.pdb
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_4_quicksort_recursive_max\obj\Debug\_4_4_quicksort_recursive_max.exe
+C:\Users\hyoil\source\repos\C#\Grokking Algorithms\_4_4_quicksort_recursive_max\obj\Debug\_4_4_quicksort_recursive_max.pdb
