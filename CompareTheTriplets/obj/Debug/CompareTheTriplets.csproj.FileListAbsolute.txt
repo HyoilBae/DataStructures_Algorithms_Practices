@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe.config
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\CompareTheTriplets\bin\Debug\CompareTheTriplets.pdb
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\CompareTheTriplets\obj\Debug\CompareTheTriplets.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\CompareTheTriplets\obj\Debug\CompareTheTriplets.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\CompareTheTriplets\obj\Debug\CompareTheTriplets.pdb
