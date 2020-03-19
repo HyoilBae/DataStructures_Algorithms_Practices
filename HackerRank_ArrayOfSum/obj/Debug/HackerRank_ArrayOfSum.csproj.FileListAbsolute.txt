@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_ArrayOfSum\bin\Debug\HackerRank_ArrayOfSum.exe.config
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_ArrayOfSum\bin\Debug\HackerRank_ArrayOfSum.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_ArrayOfSum\bin\Debug\HackerRank_ArrayOfSum.pdb
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_ArrayOfSum\obj\Debug\HackerRank_ArrayOfSum.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_ArrayOfSum\obj\Debug\HackerRank_ArrayOfSum.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_ArrayOfSum\obj\Debug\HackerRank_ArrayOfSum.pdb
