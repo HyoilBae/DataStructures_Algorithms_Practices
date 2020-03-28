@@ -23,9 +23,6 @@ namespace Linked_List
             myList.AddFirst(2);
             myList.AddFirst(3);
             myList.Print();
-            myList.Delete(2);
-            myList.Print();
-            myList.Insert(10000, 3);
 
             myList.Append(4);
             myList.Append(10);
@@ -135,84 +132,10 @@ namespace Linked_List
             //DeleteLast
             public void DeleteLast()
             {
-                if (head == null)//first edge case
-                {
-                    throw new Exception("you can't delete last of an empty list!!");
-                }
-                else if (head.Next == null)
-                {
-                    head = null;
-                }
-                else
-                {
-                Node finger = head;
-                while(finger.Next.Next != null)
-                {
-                    finger = finger.Next;
 
-                    //linkout the last node
-                }
-                    finger.Next = null;
-                }
             }
             //Insert
-            public void Insert(int someValue, int index)
-            {
-                if (index == 0 && head == null)
-                {
-                    AddFirst(someValue);
-                    return;
-                }
-                //create a new node
-                Node newNode = new Node(someValue);
-
-                //need to find the node at position index - 1
-                Node finger = head;
-                for (int position = 0; finger.Next != null && position < index; position++)
-                {
-                    if (finger == null)
-                    {
-                        Console.WriteLine("error");
-                        return;
-                    }
-                    finger = finger.Next;
-                }
-                //link in the node
-                newNode.Next = finger.Next;
-                finger.Next = newNode;
-            }
             //Delete
-            public void Delete(int index)
-            {
-                if (index < 0)
-                {
-                    return;
-                }
-                if (index == 0)
-                {
-                    DeleteFirst();
-                }
-                else if (true)
-                {
-                    Node finger = head;
-                    for (int position = 0; position < index - 1; position++)
-                    {
-                        if (finger == null)
-                        {
-                            Console.WriteLine("error");
-                            return;
-                        }
-                        finger = finger.Next;
-                    }
-
-                    //link out
-                    if (finger != null && finger.Next != null)
-                    {
-                    finger.Next = finger.Next.Next;
-                    }
-
-                }
-            }
             //Print / travers
             public void Print()
             {
