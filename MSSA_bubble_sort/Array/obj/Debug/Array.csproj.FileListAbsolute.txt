@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\MSSA_bubble_sort\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\MSSA_bubble_sort\Array\bin\Debug\Array.exe.config
+C:\Users\hyoil\source\repos\C#\MSSA_bubble_sort\Array\bin\Debug\Array.exe
+C:\Users\hyoil\source\repos\C#\MSSA_bubble_sort\Array\bin\Debug\Array.pdb
+C:\Users\hyoil\source\repos\C#\MSSA_bubble_sort\Array\obj\Debug\Array.exe
+C:\Users\hyoil\source\repos\C#\MSSA_bubble_sort\Array\obj\Debug\Array.pdb
