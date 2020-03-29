@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_DiagonalDifference\bin\Debug\HackerRank_DiagonalDifference.exe.config
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_DiagonalDifference\bin\Debug\HackerRank_DiagonalDifference.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_DiagonalDifference\bin\Debug\HackerRank_DiagonalDifference.pdb
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_DiagonalDifference\obj\Debug\HackerRank_DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_DiagonalDifference\obj\Debug\HackerRank_DiagonalDifference.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\HackerRank_DiagonalDifference\obj\Debug\HackerRank_DiagonalDifference.pdb

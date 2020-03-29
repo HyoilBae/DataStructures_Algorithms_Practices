@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\SingleDigitSum\bin\Debug\SingleDigitSum.exe.config
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\SingleDigitSum\bin\Debug\SingleDigitSum.exe
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\SingleDigitSum\bin\Debug\SingleDigitSum.pdb
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\SingleDigitSum\obj\Debug\SingleDigitSum.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\SingleDigitSum\obj\Debug\SingleDigitSum.exe
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\SingleDigitSum\obj\Debug\SingleDigitSum.pdb

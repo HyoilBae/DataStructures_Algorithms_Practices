@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\StringNumberValueSort\bin\Debug\StringNumberValueSort.exe.config
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\StringNumberValueSort\bin\Debug\StringNumberValueSort.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\StringNumberValueSort\bin\Debug\StringNumberValueSort.pdb
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\StringNumberValueSort\obj\Debug\StringNumberValueSort.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\StringNumberValueSort\obj\Debug\StringNumberValueSort.exe
+C:\Users\hyoil\source\repos\C#\DataStructures_Algorithms Practices\StringNumberValueSort\obj\Debug\StringNumberValueSort.pdb
