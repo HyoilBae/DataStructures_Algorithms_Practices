@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\Panlindrome Numbers Single Digit\bin\Debug\Panlindrome Numbers Single Digit.exe.config
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\Panlindrome Numbers Single Digit\bin\Debug\Panlindrome Numbers Single Digit.exe
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\Panlindrome Numbers Single Digit\bin\Debug\Panlindrome Numbers Single Digit.pdb
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\Panlindrome Numbers Single Digit\obj\Debug\Panlindrome Numbers Single Digit.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\Panlindrome Numbers Single Digit\obj\Debug\Panlindrome Numbers Single Digit.exe
+C:\Users\hyoil\source\repos\C#\LeetCodeExercises\Panlindrome Numbers Single Digit\obj\Debug\Panlindrome Numbers Single Digit.pdb
