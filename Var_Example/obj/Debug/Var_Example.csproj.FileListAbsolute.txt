@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\Var_Example\bin\Debug\Var_Example.exe.config
+C:\Users\hyoil\source\repos\Var_Example\bin\Debug\Var_Example.exe
+C:\Users\hyoil\source\repos\Var_Example\bin\Debug\Var_Example.pdb
+C:\Users\hyoil\source\repos\Var_Example\obj\Debug\Var_Example.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\Var_Example\obj\Debug\Var_Example.exe
+C:\Users\hyoil\source\repos\Var_Example\obj\Debug\Var_Example.pdb
