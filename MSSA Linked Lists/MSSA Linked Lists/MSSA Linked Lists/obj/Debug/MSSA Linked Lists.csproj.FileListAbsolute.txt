@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\bin\Debug\MSSA Linked Lists.exe.config
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\bin\Debug\MSSA Linked Lists.exe
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\bin\Debug\MSSA Linked Lists.pdb
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\obj\Debug\MSSA Linked Lists.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\obj\Debug\MSSA Linked Lists.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\obj\Debug\MSSA Linked Lists.exe
+C:\Users\Razvan\source\repos\MSSA Linked Lists\MSSA Linked Lists\obj\Debug\MSSA Linked Lists.pdb
