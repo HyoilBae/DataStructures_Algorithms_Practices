@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\bin\Debug\MSSA DLL Queue Stacks Trees.exe.config
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\bin\Debug\MSSA DLL Queue Stacks Trees.exe
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\bin\Debug\MSSA DLL Queue Stacks Trees.pdb
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\obj\Debug\MSSA DLL Queue Stacks Trees.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\obj\Debug\MSSA DLL Queue Stacks Trees.exe
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\obj\Debug\MSSA DLL Queue Stacks Trees.pdb
+C:\Users\Razvan\source\repos\MSSA DLL Queue Stacks Trees\MSSA DLL Queue Stacks Trees\obj\Debug\MSSA DLL Queue Stacks Trees.csproj.CoreCompileInputs.cache
