@@ -1,0 +1,6 @@
+C:\Users\Razvan\source\repos\MSSA practice 2\MSSA practice 2\bin\Debug\MSSA practice 2.exe.config
+C:\Users\Razvan\source\repos\MSSA practice 2\MSSA practice 2\bin\Debug\MSSA practice 2.exe
+C:\Users\Razvan\source\repos\MSSA practice 2\MSSA practice 2\bin\Debug\MSSA practice 2.pdb
+C:\Users\Razvan\source\repos\MSSA practice 2\MSSA practice 2\obj\Debug\MSSA practice 2.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\MSSA practice 2\MSSA practice 2\obj\Debug\MSSA practice 2.exe
+C:\Users\Razvan\source\repos\MSSA practice 2\MSSA practice 2\obj\Debug\MSSA practice 2.pdb
