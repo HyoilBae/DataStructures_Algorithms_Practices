@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\Hello_World_Mac_Windows\Hello_World_Mac_Windows\bin\Debug\Hello_World_Mac_Windows.exe.config
+C:\Users\hyoil\source\repos\Hello_World_Mac_Windows\Hello_World_Mac_Windows\bin\Debug\Hello_World_Mac_Windows.exe
+C:\Users\hyoil\source\repos\Hello_World_Mac_Windows\Hello_World_Mac_Windows\bin\Debug\Hello_World_Mac_Windows.pdb
+C:\Users\hyoil\source\repos\Hello_World_Mac_Windows\Hello_World_Mac_Windows\obj\Debug\Hello_World_Mac_Windows.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\Hello_World_Mac_Windows\Hello_World_Mac_Windows\obj\Debug\Hello_World_Mac_Windows.exe
+C:\Users\hyoil\source\repos\Hello_World_Mac_Windows\Hello_World_Mac_Windows\obj\Debug\Hello_World_Mac_Windows.pdb
