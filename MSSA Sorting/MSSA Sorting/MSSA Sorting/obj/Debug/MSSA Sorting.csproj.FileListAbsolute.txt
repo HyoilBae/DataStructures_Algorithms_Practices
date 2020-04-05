@@ -1,0 +1,6 @@
+C:\Users\Razvan\source\repos\MSSA Sorting\MSSA Sorting\bin\Debug\MSSA Sorting.exe.config
+C:\Users\Razvan\source\repos\MSSA Sorting\MSSA Sorting\bin\Debug\MSSA Sorting.exe
+C:\Users\Razvan\source\repos\MSSA Sorting\MSSA Sorting\bin\Debug\MSSA Sorting.pdb
+C:\Users\Razvan\source\repos\MSSA Sorting\MSSA Sorting\obj\Debug\MSSA Sorting.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\MSSA Sorting\MSSA Sorting\obj\Debug\MSSA Sorting.exe
+C:\Users\Razvan\source\repos\MSSA Sorting\MSSA Sorting\obj\Debug\MSSA Sorting.pdb
