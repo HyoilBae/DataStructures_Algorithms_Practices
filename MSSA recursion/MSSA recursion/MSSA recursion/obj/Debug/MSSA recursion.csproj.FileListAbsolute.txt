@@ -1,0 +1,6 @@
+C:\Users\Razvan\source\repos\MSSA recursion\MSSA recursion\bin\Debug\MSSA recursion.exe.config
+C:\Users\Razvan\source\repos\MSSA recursion\MSSA recursion\bin\Debug\MSSA recursion.exe
+C:\Users\Razvan\source\repos\MSSA recursion\MSSA recursion\bin\Debug\MSSA recursion.pdb
+C:\Users\Razvan\source\repos\MSSA recursion\MSSA recursion\obj\Debug\MSSA recursion.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\MSSA recursion\MSSA recursion\obj\Debug\MSSA recursion.exe
+C:\Users\Razvan\source\repos\MSSA recursion\MSSA recursion\obj\Debug\MSSA recursion.pdb
